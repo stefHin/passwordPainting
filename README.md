@@ -6,9 +6,9 @@ Further shortcomings include the code quality (I'm not a js developer and crafte
 
 Feel free to use it, build on it, ... Have fun, use it at your own risk. As mentioned above, this is in POC state.
 
-![ample workflow 1](relative%20screenshotsForReadme/workflow1?raw=true "sample workflow 1")
-![ample workflow 2](relative%20screenshotsForReadme/workflow2?raw=true "sample workflow 2")
-![ample workflow 3](relative%20screenshotsForReadme/workflow3?raw=true "sample workflow 3")
+![sample workflow 1](screenshotsForReadme/workflow1?raw=true "sample workflow 1")
+![sample workflow 2](screenshotsForReadme/workflow2?raw=true "sample workflow 2")
+![sample workflow 3](screenshotsForReadme/workflow3?raw=true "sample workflow 3")
 
 
 For testing it, see https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension
