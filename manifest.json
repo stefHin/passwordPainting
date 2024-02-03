@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "PasswordPainting",
+    "version": "1.0",
+  
+    "description": "Allows you to paint your passwords instead of typing them",
+  
+    "icons": {
+      "48": "icons/passwordPaintingIcon.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["passwordPainting.js"]
+      }
+    ]
+  }
+  
